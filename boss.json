@@ -4,6 +4,6 @@
 	"version": "1.0.0",
 	"homepage": "",
 	"mainsrc": "./Source",
-	"projects": [],
+	"projects": ["TBGWebCharts.dproj"],
 	"dependencies": {}
 }
